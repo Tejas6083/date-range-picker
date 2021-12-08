@@ -1,0 +1,10 @@
+.react-calendar {
+  width: 27%;
+  line-height: 20%;
+}
+.DateRangePicker__CalendarDatePeriod--pm {
+  left: 0;
+}
+.DateRangePicker__CalendarDatePeriod--am {
+  right: 0;
+}
